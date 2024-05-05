@@ -1,18 +1,18 @@
-Takes in a long string in the style of 'name: text name: text name: text' and writes all the names to a new text file. Also creates a list that stores all the names.
+## Takes in a long string in the style of 'name: text name: text name: text' and writes all the names to a new text file. Also creates a list that stores all the names.
 
-Example usage:
-'''
-username1: sample text sample text sample text
-username2: sample text sample text sample text
-username3: sample text sample text sample text
-username4: sample text sample text sample text
-'''
+### Example usage:
+''' <br>
+username1: sample text sample text sample text <br>
+username2: sample text sample text sample text <br>
+username3: sample text sample text sample text <br>
+username4: sample text sample text sample text <br>
+''' <br>
 
-This will return:
+### This will return:
 
-username1
-username2
-username3
-username4
+username1 <br>
+username2 <br>
+username3 <br>
+username4 <br>
 
-in the new text file.
+### in the new text file.
